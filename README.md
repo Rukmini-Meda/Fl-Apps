@@ -1,6 +1,6 @@
 # Fl-Apps
 
-This includes all the apps I made as part of learning Flutter.
+This includes all the apps I made using Flutter.
 
 ### MathGenius
 
